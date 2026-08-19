@@ -58,12 +58,12 @@ Incluye:
 - Producción por tipo de producto
 - Filtros por año, mes, compresor y descripción
 
-## Archivos del repositorio
+## Estructura del repositorio
 
-- `informe producción hielo.xlsx`: dataset original.
-- `Proyecto Final.ipynb`: notebook con el proceso de limpieza y análisis.
-- `produccion_hielo_limpio_ARG.csv`: dataset limpio utilizado para la visualización.
-- `Dashboard Producción.pbix`: dashboard desarrollado en Power BI.
+- `data/raw/informe producción hielo.xlsx`: dataset original utilizado para el proyecto.
+- `data/procesado/produccion_hielo_limpio_ARG.csv`: dataset limpio y procesado utilizado en Power BI.
+- `notebooks/Proyecto Final.ipynb`: notebook de Google Colab con el proceso de exploración, limpieza, análisis y visualización de los datos.
+- `dashboard/Dashboard Producción.pbix`: dashboard interactivo desarrollado en Power BI.
 
 ## Autor
 
