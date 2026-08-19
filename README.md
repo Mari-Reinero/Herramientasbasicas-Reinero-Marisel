@@ -1,3 +1,7 @@
+**Autora:** Marisel Reinero  
+**Curso:** Herramientas básicas para el Análisis de Datos  
+**Cohorte:** 
+
 # Análisis de Producción y Eficiencia - Planta de Hielo
 
 ## Objetivo del proyecto
@@ -60,13 +64,8 @@ Incluye:
 
 ## Estructura del repositorio
 
-- `data/raw/informe producción hielo.xlsx`: dataset original utilizado para el proyecto.
-- `data/procesado/produccion_hielo_limpio_ARG.csv`: dataset limpio y procesado utilizado en Power BI.
-- `notebooks/Proyecto Final.ipynb`: notebook de Google Colab con el proceso de exploración, limpieza, análisis y visualización de los datos.
-- `dashboard/Dashboard Producción.pbix`: dashboard interactivo desarrollado en Power BI.
+- [Dataset original](data/raw/informe%20producción%20hielo.xlsx): archivo Excel con los registros originales de producción.
+- [Dataset procesado](data/procesado/produccion_hielo_limpio_ARG.csv): dataset limpio y procesado utilizado para el análisis y Power BI.
+- [Notebook de análisis](notebooks/Proyecto%20Final.ipynb): notebook de Google Colab con el proceso de exploración, limpieza, análisis y visualización de los datos.
+- [Dashboard de Power BI](dashboard/Dashboard%20Producción.pbix): dashboard interactivo desarrollado en Power BI.
 
-## Autor
-
-**Marisel Reinero**
-
-Proyecto Final - Análisis de Datos
